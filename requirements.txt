@@ -2,8 +2,6 @@ streamlit
 pandas
 yfinance
 plotly
-alpaca-trade-api
+alpaca-py
 pushbullet.py
-requests==2.31.0
-six
-urllib3==1.26.15
+requests
