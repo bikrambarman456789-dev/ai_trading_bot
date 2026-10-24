@@ -5,4 +5,5 @@ plotly
 alpaca-trade-api
 pushbullet.py
 requests
+six
 urllib3<2.0.0
